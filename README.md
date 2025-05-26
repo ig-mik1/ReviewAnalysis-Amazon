@@ -1,6 +1,6 @@
 Amazon Review Sentiment Analysis:
 
-This is a Machine Learning project that predicts sentiment from Amazon mobile reviews using Streamlit, scikit-learn and NLP.
+This is a Machine Learning project that predicts sentiment from Amazon Reviews using Streamlit, scikit-learn and NLP.
 
 👨‍💻 Tech Stack
 - Python
