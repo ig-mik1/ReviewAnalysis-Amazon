@@ -21,9 +21,11 @@ This is a Machine Learning project that predicts sentiment from Amazon Reviews u
 
 📁 Files
 - `amazon3.py` → Main Streamlit script
-- `Amazon_Unlocked_Mobile.csv` → Dataset
-- `TeamReport.pdf` → Final report
-- `customer_Unlocked_Mobile.csv` → Optional dataset
+- `TeamReport.pdf` → Final Report
+- 📊 Dataset
+  Due to GitHub size limits, only a sample of the original dataset is included.  
+  👉 [Download the full dataset from Kaggle](https://www.kaggle.com/datasets/PromptCloudHQ/amazon-reviews-unlocked-mobile-phones)
+
 
 🚀 How to Run
 ```bash
